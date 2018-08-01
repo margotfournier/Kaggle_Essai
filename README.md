@@ -1,4 +1,2 @@
-# Kaggle_Essai
-Première analyses sur Kaggle
-TADA
-
+﻿# Kaggle_Essai
+Début projet sur git
